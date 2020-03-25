@@ -3,8 +3,6 @@
 自分が読んだことのある本、現在読書中の本、積まれている本の一覧です。  
 基本的にWeb関連の本のみを掲載しています。  
   
-  
-## クライアント側
 ### HTML&CSS
 スラスラわかるHTML&CSSのきほん (著:狩野 祐東)  
 https://www.sbcr.jp/product/4797393156/  
@@ -22,8 +20,6 @@ https://www.shuwasystem.co.jp/book/9784798056920.html
 jQuery標準デザイン講座 (著:神田幸恵)  
 https://www.shoeisha.co.jp/book/detail/9784798136226  
   
-  
-## サーバ側 
 ### PHP
 独習PHP 第3版 (著:山田祥寛)  
 https://www.shoeisha.co.jp/book/detail/9784798135472  
@@ -59,7 +55,11 @@ https://www.shoeisha.co.jp/book/detail/9784798124704
 達人に学ぶSQL徹底指南書 第2版 初級者で終わりたくないあなたへ (著:ミック)  
 https://www.shoeisha.co.jp/book/detail/9784798157825  
   
-## その他
+### Python
+増補改訂Pythonによるスクレイピング＆機械学習開発テクニック (著:クジラ飛行机)  
+https://www.socym.co.jp/book/1192  
+  
+### その他
 Webセキュリティ担当者のための脆弱性診断スタートガイド 第2版 上野宣が教える新しい情報漏えいを防ぐ技術 (著:上野宣)  
 https://www.shoeisha.co.jp/book/detail/9784798159164  
   
