@@ -29,12 +29,16 @@
 ## WordPress
 - [WordPressレッスンブック HTML5&CSS3準拠　(エビスコム)](https://ebisu.com/wordpress-lesson/)  
   
+## RDB
+- [達人に学ぶDB設計 徹底指南書 (著:ミック)](https://www.shoeisha.co.jp/book/detail/9784798124704)  
+  
+## SQL
+- [SQL 第2版 ゼロからはじめるデータベース操作 (著:ミック)](https://www.shoeisha.co.jp/book/detail/9784798144450)  
+- [達人に学ぶSQL徹底指南書 第2版 初級者で終わりたくないあなたへ (著:ミック)](https://www.shoeisha.co.jp/book/detail/9784798157825)  
+  
 ## MySQL
 - [詳解MySQL 5.7 止まらぬ進化に乗り遅れないためのテクニカルガイド (著:奥野 幹也)](https://www.shoeisha.co.jp/book/detail/9784798147406)  
 - [基礎からのMySQL 第3版 (著:西沢 夢路)](https://www.sbcr.jp/product/4797393118/)  
-- [SQL 第2版 ゼロからはじめるデータベース操作 (著:ミック)](https://www.shoeisha.co.jp/book/detail/9784798144450)  
-- [達人に学ぶDB設計 徹底指南書 (著:ミック)](https://www.shoeisha.co.jp/book/detail/9784798124704)  
-- [達人に学ぶSQL徹底指南書 第2版 初級者で終わりたくないあなたへ (著:ミック)](https://www.shoeisha.co.jp/book/detail/9784798157825)  
   
 ## Python
 - [増補改訂Pythonによるスクレイピング＆機械学習開発テクニック (著:クジラ飛行机)](https://www.socym.co.jp/book/1192)  
