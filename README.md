@@ -39,6 +39,7 @@
 ## MySQL
 - [詳解MySQL 5.7 止まらぬ進化に乗り遅れないためのテクニカルガイド (著:奥野 幹也)](https://www.shoeisha.co.jp/book/detail/9784798147406)  
 - [基礎からのMySQL 第3版 (著:西沢 夢路)](https://www.sbcr.jp/product/4797393118/)  
+- [MySQL徹底入門 第4版 MySQL 8.0対応](https://www.shoeisha.co.jp/book/detail/9784798161488)  
   
 ## Python
 - [増補改訂Pythonによるスクレイピング＆機械学習開発テクニック (著:クジラ飛行机)](https://www.socym.co.jp/book/1192)  
@@ -59,3 +60,4 @@
 ## その他
 - WEB+DB PRESS (WEB+DB PRESS編集部)  
 - [基礎からわかるTCP/IP SIPによるVoIPプログラミング (マッキーソフト)](https://www.ohmsha.co.jp/book/9784274065590/)  
+- [マスタリングTCP/IP　入門編（第6版）](https://www.ohmsha.co.jp/book/9784274224478/)  
