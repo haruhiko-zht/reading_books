@@ -11,6 +11,7 @@
   
 ## JavaScript Framework
 - [React.js & Next.js超入門 (著:掌田津耶乃)](https://www.shuwasystem.co.jp/book/9784798056920.html)  
+- [りあクト！ TypeScriptで始めるつらくないReact開発](https://booth.pm/ja/items/2368045)  
   
 ## jQuery
 - [jQuery標準デザイン講座 (著:神田幸恵)](https://www.shoeisha.co.jp/book/detail/9784798136226)  
